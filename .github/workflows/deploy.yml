@@ -2,7 +2,7 @@ name: Deploy Yii2 App
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   deploy:
